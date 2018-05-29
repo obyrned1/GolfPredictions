@@ -1,0 +1,47 @@
+[INFO  - 2018-05-29T09:35:08.290Z] GhostDriver - Main - running on port 52701
+[INFO  - 2018-05-29T09:35:08.708Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-05-29T09:35:08.708Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.customHeaders:  - {}
+[INFO  - 2018-05-29T09:35:08.709Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-05-29T09:35:08.709Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 93a5c540-6323-11e8-adbc-0beb57bc6722
+[ERROR - 2018-05-29T09:35:10.303Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - msg: ReferenceError: Can't find variable: oc
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:10.307Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - stack:
+  global code (https://www.oddschecker.com/golf/memorial-championship/the-memorial-tournament/winner:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:10.829Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - msg: ReferenceError: Can't find variable: oc
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:10.830Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - stack:
+  global code (https://www.oddschecker.com/golf/memorial-championship/the-memorial-tournament/winner:29)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:10.988Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - msg: ReferenceError: Can't find variable: oc
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:10.989Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - stack:
+  global code (https://www.oddschecker.com/golf/memorial-championship/the-memorial-tournament/winner:33)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:12.550Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - msg: ReferenceError: Can't find variable: oc
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:12.552Z] Session [93a5c540-6323-11e8-adbc-0beb57bc6722] - page.onError - stack:
+  global code (https://www.oddschecker.com/golf/memorial-championship/the-memorial-tournament/winner:65)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-05-29T09:35:14.764Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1527586514746
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-05-29T09:40:08.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T09:45:08.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T09:50:08.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T09:55:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:00:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:05:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:10:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:15:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:20:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:25:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-05-29T10:30:08.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
